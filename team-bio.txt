@@ -1,3 +1,8 @@
 Kasparas:
 I am a software engineering student. In my free time I am learning Japanese and working on a personal Java project.
 Part of FutureTech Accenture project.
+
+What I want?
+Reach a more advanced level in Java and Spring Boot
+Improve overall communication and team management skills
+Meet and connect with new people
