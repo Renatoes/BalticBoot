@@ -1,1 +1,3 @@
-e
+Kasparas:
+I am a software engineering student. In my free time I am learning Japanese and working on a personal Java project.
+Part of FutureTech Accenture project.
